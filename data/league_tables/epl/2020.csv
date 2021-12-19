@@ -1,0 +1,21 @@
+,Rk,Squad,team_id,MP,W,D,L,GF,GA,GD,Pts,xG,xGA,xGD,Attendance,Top Team Scorer,Goalkeeper,Notes
+0,1,Liverpool,822bd0ba,38,32,3,3,85,33,52,99,71.5,40.0,31.5,41955,Mohamed Salah - 19,Alisson,→ UEFA Champions League via league finish
+1,2,Manchester City,b8fd03ef,38,26,3,9,102,35,67,81,93.0,34.7,58.3,37097,Raheem Sterling - 20,Ederson,→ UEFA Champions League via league finish
+2,3,Manchester Utd,19538871,38,18,12,8,66,36,30,66,59.4,37.4,22.0,57415,"Marcus Rashford, Anthony Martial - 17",David de Gea,→ UEFA Champions League via league finish
+3,4,Chelsea,cff3d9bb,38,20,6,12,69,54,15,66,66.6,37.9,28.6,32023,Tammy Abraham - 15,Kepa Arrizabalaga,→ UEFA Champions League via league finish
+4,5,Leicester City,a2d435b3,38,18,8,12,67,41,26,62,61.6,44.5,17.1,25312,Jamie Vardy - 23,Kasper Schmeichel,→ UEFA Europa League via league finish
+5,6,Tottenham,361ca564,38,16,11,11,61,47,14,59,46.1,52.0,-6.0,43757,Harry Kane - 18,Hugo Lloris,→ UEFA Europa League via league finish 1
+6,7,Wolves,8cec06e1,38,15,14,9,51,40,11,59,47.1,34.8,12.3,24758,Raúl Jiménez - 17,Rui Patrício,
+7,8,Arsenal,18bb7c10,38,14,14,10,56,48,8,56,49.2,56.6,-7.3,47589,Pierre-Emerick Aubameyang - 22,Bernd Leno,→ UEFA Europa League via cup win 2
+8,9,Sheffield Utd,1df6b87e,38,14,12,12,39,39,0,54,41.5,47.9,-6.4,24370,"Oliver McBurnie, Lys Mousset - 6",Dean Henderson,
+9,10,Burnley,943e8050,38,15,9,14,43,50,-7,54,43.9,48.3,-4.4,15995,Chris Wood - 14,Nick Pope,
+10,11,Southampton,33c895d4,38,15,7,16,51,60,-9,52,54.0,53.1,0.9,23428,Danny Ings - 22,Alex McCarthy,
+11,12,Everton,d3fd31cc,38,13,10,15,44,56,-12,49,49.3,48.4,0.9,28848,"Dominic Calvert-Lewin, Richarlison - 13",Jordan Pickford,
+12,13,Newcastle Utd,b2b47a98,38,11,11,16,38,58,-20,44,33.1,58.3,-25.2,35551,Jonjo Shelvey - 6,Martin Dúbravka,
+13,14,Crystal Palace,47c64c55,38,11,10,17,31,50,-19,43,34.0,51.3,-17.3,19784,Jordan Ayew - 9,Vicente Guaita,
+14,15,Brighton,d07537b9,38,9,14,15,39,54,-15,41,41.2,54.5,-13.3,22369,Neal Maupay - 10,Mathew Ryan,
+15,16,West Ham,7c21e445,38,10,9,19,49,62,-13,39,46.2,61.1,-14.8,44155,Michail Antonio - 10,Łukasz Fabiański,
+16,17,Aston Villa,8602292d,38,9,8,21,41,67,-26,35,40.1,65.9,-25.8,28505,Jack Grealish - 8,Tom Heaton,
+17,18,Bournemouth,4ba7cbea,38,9,7,22,40,65,-25,34,42.7,57.5,-14.8,7745,Callum Wilson - 8,Aaron Ramsdale,Relegated
+18,19,Watford,2abfe087,38,8,10,20,36,64,-28,34,45.1,57.3,-12.2,15353,Troy Deeney - 10,Ben Foster,Relegated
+19,20,Norwich City,1c781004,38,5,6,27,26,75,-49,21,38.0,61.9,-23.9,19913,Teemu Pukki - 11,Tim Krul,Relegated
